@@ -4,7 +4,7 @@
 
 **Electrical Engineering Undergraduate** · Signal Processing · Deep Learning · Control Systems
 
-[![Email](https://img.shields.io/badge/Email-mustaphabarrow71%40gmail.com-orange?style=flat&logo=gmail&logoColor=white)](mailto:mustaphabarrow71@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mustafabarrow99%40gmail.com-orange?style=flat&logo=gmail&logoColor=white)](mailto:mustafabarrow99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fmustapha--barrow-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-barrow)
 [![GitHub](https://img.shields.io/badge/GitHub-mustaphabarrow-181717?style=flat&logo=github&logoColor=white)](https://github.com/mustaphabarrow)
 [![TEEP @ Tatung University](https://img.shields.io/badge/TEEP%20Researcher-Tatung%20University-purple?style=flat)](https://www.ttu.edu.tw/)
@@ -49,7 +49,7 @@ I'm an Electrical Engineering undergraduate with a deep interest in **signal pro
 ### 📫 Let's connect
 
 - 📞 +62 822-2093-8351
-- 📧 [mustaphabarrow71@gmail.com](mailto:mustaphabarrow71@gmail.com)
+- 📧 GitHub: [mustafabarrow99@gmail.com](mailto:mustafabarrow99@gmail.com) · Academic/personal: [mustaphabarrow71@gmail.com](mailto:mustaphabarrow71@gmail.com)
 - 💼 [linkedin.com/in/mustapha-barrow](https://www.linkedin.com/in/mustapha-barrow)
 
 ---
